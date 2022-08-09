@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Car_Sharing.Car_Sharing-task-build-classes-java.main" target="11" />
+      <module name="Car_Sharing.Car_Sharing-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Car_Sharing.Car_Sharing-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Car_Sharing.Car_Sharing-task-build-reports-tests.main" target="11" />
+      <module name="Car_Sharing.Car_Sharing-task-build-test-results.main" target="11" />
+      <module name="Car_Sharing.Car_Sharing-task-build-tmp.main" target="11" />
+      <module name="Car_Sharing.Car_Sharing-task.main" target="11" />
+      <module name="Car_Sharing.Topics-Declaring_a_method-Find_the_max_of_three_numbers.main" target="11" />
+      <module name="Car_Sharing.Topics-Declaring_a_method-Theory.main" target="11" />
+      <module name="Car_Sharing.Topics-Generics_and_Object-Correct_the_usage_of_non-generic_class.main" target="11" />
+      <module name="Car_Sharing.Topics-Generics_and_Object-Theory.main" target="11" />
+      <module name="Car_Sharing.Topics-Grouping_collectors-Downstream_collectors.main" target="11" />
+      <module name="Car_Sharing.Topics-Grouping_collectors-groupingBy_parameters.main" target="11" />
+      <module name="Car_Sharing.Topics-Grouping_collectors-Palindrome_or_not.main" target="11" />
+      <module name="Car_Sharing.Topics-Grouping_collectors-The_total_sum_of_transaction_by_each_account.main" target="11" />
+      <module name="Car_Sharing.Topics-Grouping_collectors-Theory.main" target="11" />
+      <module name="Car_Sharing.Topics-Parallel_streams-Getting_the_greater_speedup.main" target="11" />
+      <module name="Car_Sharing.Topics-Parallel_streams-Inverting_streams.main" target="11" />
+      <module name="Car_Sharing.Topics-Parallel_streams-Parallel_reducing.main" target="11" />
+      <module name="Car_Sharing.Topics-Parallel_streams-Prime_numbers.main" target="11" />
+      <module name="Car_Sharing.Topics-Parallel_streams-Theory.main" target="11" />
+      <module name="Car_Sharing.Topics-Stream_pipelines-Programming_paradigms.main" target="11" />
+      <module name="Car_Sharing.Topics-Stream_pipelines-The_sum_of_odd_numbers.main" target="11" />
+      <module name="Car_Sharing.Topics-Stream_pipelines-The_total_sum_of_canceled_transactions.main" target="11" />
+      <module name="Car_Sharing.Topics-Stream_pipelines-Theory.main" target="11" />
+      <module name="Car_Sharing.Topics-Stream_pipelines-Using_streams_many_times.main" target="11" />
+      <module name="Car_Sharing.Topics-Streams_of_primitives-A_stream_without_zero.main" target="11" />
+      <module name="Car_Sharing.Topics-Streams_of_primitives-Producing_streams.main" target="11" />
+      <module name="Car_Sharing.Topics-Streams_of_primitives-The_average_salary.main" target="11" />
+      <module name="Car_Sharing.Topics-Streams_of_primitives-The_default_value_of_summary_statistics.main" target="11" />
+      <module name="Car_Sharing.Topics-Streams_of_primitives-Theory.main" target="11" />
+      <module name="Car_Sharing.Topics-Taking_elements-Secret_codes.main" target="11" />
+      <module name="Car_Sharing.Topics-Taking_elements-Sorting_and_skipping_numbers.main" target="11" />
+      <module name="Car_Sharing.Topics-Taking_elements-Theory.main" target="11" />
+      <module name="Car_Sharing.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
